@@ -1,1 +1,8 @@
-@import url("rest.css")
+@import url("rest.css");
+
+:root{
+    --cor-de-fundo: #;
+}
+body{
+    background-color: var(--cor-de-fundo);
+}
