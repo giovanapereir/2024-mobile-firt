@@ -4,6 +4,8 @@
 :root{
     --cor-de-fundo: #ebecee;
     --branco: #ffffff;
+    --laranja: #eb9b00;
+    --azul: #002f52;
 }
 body{
     background-color: var(--cor-de-fundo);
