@@ -23,3 +23,17 @@
     text-align: center;
     background: url();
 }
+
+.swiper-Slide img {
+width:100%;
+}
+
+.swiper-button-prev,
+.swiper-button-next{
+    display: none;
+}
+
+.swiper-pagination{
+    position:initial;
+    margin: 1em 0;
+}
